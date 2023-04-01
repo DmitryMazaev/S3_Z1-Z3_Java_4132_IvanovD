@@ -15,6 +15,5 @@ public class Main
         //Задача 3
         Z3 Z3 = new Z3();
         Z3.arrayList();
-
     }
 }
